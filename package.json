@@ -1,0 +1,22 @@
+{
+  "name": "readme-file-genorator",
+  "version": "1.0.0",
+  "description": "Read me file generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricMalpass/Readme-File-Genorator.git"
+  },
+  "author": "Eric Malpass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricMalpass/Readme-File-Genorator/issues"
+  },
+  "homepage": "https://github.com/EricMalpass/Readme-File-Genorator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
