@@ -3,6 +3,8 @@ The reason for this application is to create a README file for the user.
 The application will generate a file that will be named Read-Me.md I did this 
 in order to no t overwrite the README file that is already there though you can later change the name.
 
+Before you can run the index.js the user needs to run npm init and then install the inquirer, npm as well. 
+This is described in the video below.
 
 screenshot:
 ![Screenshots](./screenshot.PNG)
