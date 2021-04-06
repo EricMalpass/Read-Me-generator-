@@ -62,6 +62,10 @@ const generateDoc = (answers) =>
       Screenshot: ![Screenshots](${answers.screenshots})
       People who I worked with to complete the project: ${answers.assistance}</li>
       My contact information: ${answers.contact}
+      This app was created by Eric Malpass
+      My contact information if you have any questions is EricMalpass@gmail.com
+      My guthub: https://github.com/EricMalpass
+
    `;
 
 // Bonus using writeFileAsync as a promise
