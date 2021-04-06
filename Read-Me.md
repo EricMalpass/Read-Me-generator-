@@ -1,12 +1,12 @@
 
-   #Hi! My Project name is  152132
+   #Hi! My Project name is  readmefile
 
-     010223123132
+     Creates a read me file for your project
     
-      Technolgies used: 032021213
-      Active Site: 00000000000000
-      Repo: 00000000000000000000000000
-      Screenshot: ![Screenshots](00000000000000000000)
-      People who I worked with to complete the project: 0000000000000000000000</li>
-      My contact information: 0000000000000000000000
+      Technolgies used: JavaScript, node.js
+      Active Site: https://ericmalpass.github.io/Read-Me-generator-/.
+      Repo: https://github.com/EricMalpass/Read-Me-generator-
+      Screenshot: ![Screenshots](./portfolio/images/screenshot1.PNG)
+      People who I worked with to complete the project: JIm and Bob</li>
+      My contact information: ericmalpass@gmail.com
    
